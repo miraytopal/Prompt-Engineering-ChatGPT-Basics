@@ -7,3 +7,9 @@ Prompt engineering is the process of designing and optimizing prompts for a larg
 Prompt engineering involves several steps, including selecting the right prompts, fine-tuning the model, and testing the output.clarity is important, but clearly does not equate to short prompts in prompt engineering. The prompts can be simple or complex, depending on the task at hand. 
 
 Overall, prompt engineering is a critical component of LLM development and is essential to ensure that the model produces accurate and relevant responses.
+
+
+:book: **Additional Sources:** 
+--
+**Papers :**
+- [Prompting Techniques](https://arxiv.org/pdf/2102.07350.pdf)
