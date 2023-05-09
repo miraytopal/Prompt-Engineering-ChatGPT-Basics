@@ -9,6 +9,15 @@ Prompt engineering involves several steps, including selecting the right prompts
 Overall, prompt engineering is a critical component of LLM development and is essential to ensure that the model produces accurate and relevant responses.
 
 
+Parameters of Prompt
+-- 
+**Temperature parameter** is a crucial aspect of Large Language Models (LLMs) that determines the level of randomness and creativity in the generated text. It controls the degree of uncertainty in the model's predictions, allowing it to produce more diverse and varied outputs. A higher temperature value results in more unpredictable and imaginative responses, while a lower temperature value produces more conservative and predictable outputs.
+
+**Top_p** is a parameter used in Large Language Models (LLMs) to control the diversity of generated text. It determines the probability threshold for selecting the next word in the generated text. The higher the Top_p value, the more diverse the generated text will be. Conversely, a lower Top_p value will result in more predictable and repetitive text.
+
+
+Note: The general advice is to replace only one, not both.
+
 :book: **Additional Sources:** 
 --
 **Papers :**
