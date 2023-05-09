@@ -18,6 +18,16 @@ Parameters of Prompt
 
 Note: The general advice is to replace only one, not both.
 
+Installation
+--
+Install the OpenAI Python library:
+
+```
+!pip install openai
+```
+
+The library needs to be configured with your account's secret key. You can find it on this [website](https://platform.openai.com/account/api-keys).
+
 :book: **Additional Sources:** 
 --
 **Papers :**
