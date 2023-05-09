@@ -28,6 +28,11 @@ Install the OpenAI Python library:
 
 The library needs to be configured with your account's secret key. You can find it on this [website](https://platform.openai.com/account/api-keys).
 
+Clone the repository from GitHub:
+```
+$ git clone https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics
+```
+
 :book: **Additional Sources:** 
 --
 **Papers :**
