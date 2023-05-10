@@ -31,12 +31,12 @@ Note: The general advice is to replace only one, not both.
 Repo Guide
 -- 
 
-1. Basic Prompts
-  - 1.1 Summarizing
-  - 1.2 Text Classification
-  - 1.3 Translate
-  - 1.4 Code Generation
-2. Conversation with ChatGPT
+1. [Basic Prompts](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/introduction_prompt_engineering.ipynb)
+  - [1.1 Summarizing](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/summarizing.ipynb)
+  - [1.2 Text Classification](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/text-classification-and-translate.ipynb)
+  - [1.3 Translate](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/text-classification-and-translate.ipynb)
+  - [1.4 Code Generation](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/code-generation-and-chatbot.ipynb)
+2. [Conversation with ChatGPT](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/code-generation-and-chatbot.ipynb)
 
 Installation
 --
