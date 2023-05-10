@@ -33,8 +33,8 @@ Repo Guide
 
 1. [Basic Prompts](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/introduction_prompt_engineering.ipynb)
   - [1.1 Summarizing](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/summarizing.ipynb)
-  - [1.2 Text Classification](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/text-classification-and-translate.ipynb)
-  - [1.3 Translate](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/text-classification-and-translate.ipynb)
+  - [1.2 Text Classification](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/text-classification-and-translation.ipynb))
+  - [1.3 Translation](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/text-classification-and-translation.ipynb)
   - [1.4 Code Generation](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/code-generation-and-chatbot.ipynb)
 2. [Conversation with ChatGPT](https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics/blob/main/notebooks/code-generation-and-chatbot.ipynb)
 
