@@ -52,14 +52,14 @@ Clone the repository from GitHub:
 ```
 $ git clone https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics
 ```
-Sources:
+📑Sources:
 -- 
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Best Practices for Prompt Engineering wit OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-:book: 
 
-**Additional Sources:** 
+
+📖**Additional Sources:** 
 --
 **Papers :**
 - [Prompting Techniques](https://arxiv.org/pdf/2102.07350.pdf)
