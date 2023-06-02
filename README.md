@@ -54,6 +54,9 @@ Clone the repository from GitHub:
 ```
 $ git clone https://github.com/miraytopal/Prompt-Engineering-ChatGPT-Basics
 ```
+
+You can access my medium article on this subject [here](https://medium.com/@miraytopal/prompt-engineering-some-prompts-are-more-equal-than-others-eb7c0e75925d).
+
 📑Sources:
 -- 
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/)
