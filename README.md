@@ -72,8 +72,3 @@ You can access my medium article on this subject [here](https://medium.com/@mira
 
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/miraytopal/Prompt-Engineering-Basics/blob/main/LICENSE) 
-
-
-
-
-
